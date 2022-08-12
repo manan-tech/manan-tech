@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @manan-tech
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning machine learning
